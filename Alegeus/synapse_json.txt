@@ -1,0 +1,12 @@
+1, single line json:
+2, single line json with array file:    
+FIELDTERMINATOR = '0x0b', -- vertical tab
+FIELDQUOTE = '0x0b', -- vertical tab
+ROWTERMINATOR = '0x0a' -- '0x0a'
+
+
+3, standard line json:
+4, classic, multi line json:
+FIELDTERMINATOR = '0x0b', -- vertical tab
+FIELDQUOTE = '0x0b', -- vertical tab
+ROWTERMINATOR = '0x0b' -- vertical tab
